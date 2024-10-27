@@ -371,7 +371,7 @@ Frame.ClipsDescendants = false
 })
 
 ScriptsTab:AddButton({
-	Name = "Cat Bypasser V1.5 (Click 2 Times To Work)",
+	Name = "Cat Bypasser (Key Required)",
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/shadow62x/catbypass/main/upfix"))()
   	end    
